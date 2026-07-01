@@ -1,0 +1,430 @@
+canonical_identifier: bkk:krp/KR6b0067/T/v1
+canonical_location: https://kanripo.org/bkk/KR6b0067/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法句經
+  identifiers:
+    krp: KR6b0067
+  tags:
+    kr-categories: KR6b
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    tls-dates: dat04100
+  source:
+    repository: tls-texts
+    path: data/tls/KR6b0067.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR6b0067_001-T.yaml, hash: 'sha256:4832827c344019274fd0cbf382ae374516c221030b431393963e47b5365b08ab'}
+  - {seq: 2, filename: KR6b0067_002-T.yaml, hash: 'sha256:7af2fc166bd92874e8c05697f0bd85b3b0e40f4ea1485757fcd0ad8aa17ffdf6'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6b0067_001-T.markers.yaml, hash: 'sha256:c8f205b52f40195ce6a8e681c03c75176549995750620a4aa928169cb654ee58'}
+  - {seq: 2, role: markers, filename: assets/KR6b0067_002-T.markers.yaml, hash: 'sha256:74c5e5ace20af06ebd20355558bcc1804db435ebb5399cfd4aeeffbae8189b5b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0566b.37-h
+    span:
+    - front
+    - 0
+    - 491
+  label: 法句經序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0559a.8-h
+    span:
+    - body
+    - 0
+    - 384
+  label: 無常品第一二十有一章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0559b.33-h
+    span:
+    - body
+    - 384
+    - 920
+  label: 教學品法句經法句經第二二十有九章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0560a.21-h
+    span:
+    - body
+    - 920
+    - 1328
+  label: 多聞品法句經第三十有九章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0560b.41-h
+    span:
+    - body
+    - 1328
+    - 1657
+  label: 篤信品法句經第四十有八章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0560c.59-h
+    span:
+    - body
+    - 1657
+    - 1942
+  label: 戒慎品法句經第五十有六章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0561a.45-h
+    span:
+    - body
+    - 1942
+    - 2220
+  label: 惟念品法句經第六十有二章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0561b.31-h
+    span:
+    - body
+    - 2220
+    - 2556
+  label: 慈仁品法句經第七十有八章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0561c.44-h
+    span:
+    - body
+    - 2556
+    - 2808
+  label: 言語品法句經第八十有二章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0562a.23-h
+    span:
+    - body
+    - 2808
+    - 3237
+  label: 雙要品法句經第九二十有二章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0562b.54-h
+    span:
+    - body
+    - 3237
+    - 3659
+  label: 放逸品法句經第十有二十章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0563a.4-h
+    span:
+    - body
+    - 3659
+    - 3881
+  label: 心意品法句經第十一十有二章心意品者
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0563a.57-h
+    span:
+    - body
+    - 3881
+    - 4182
+  label: 華香品法句經第十二十有七章華香品者
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0563b.52-h
+    span:
+    - body
+    - 4182
+    - 4568
+  label: 愚闇品法句經第十三二十有一章愚闇品者
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0563c.59-h
+    span:
+    - body
+    - 4568
+    - 4885
+  label: 明哲品法句經第十四
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0564a.76-h
+    span:
+    - body
+    - 4885
+    - 5089
+  label: 羅漢品法句經第十五有十章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0564b.48-h
+    span:
+    - body
+    - 5089
+    - 5422
+  label: 述千品法句經第十六十有六章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0564c.40-h
+    span:
+    - body
+    - 5422
+    - 5852
+  label: 惡行品法句經第十七二十有二章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0565a.72-h
+    span:
+    - body
+    - 5852
+    - 6129
+  label: 刀杖品法句經第十八十有四章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0565b.64-h
+    span:
+    - body
+    - 6129
+    - 6390
+  label: 老耗品法句經第十九十有四章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0565c.51-h
+    span:
+    - body
+    - 6390
+    - 6651
+  label: 愛身品法句經第二十十有三章
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0067_T_001-0566a.51-h
+    span:
+    - body
+    - 6651
+    - 6926
+  label: 世俗品法句經第二十一十有四章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_001-0566b.37-h
+    span:
+    - front
+    - 0
+    - 20
+  label: 法句經序
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0567a.7-h
+    span:
+    - body
+    - 0
+    - 417
+  label: 述佛品法句經第二十二二十有一章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0567b.49-h
+    span:
+    - body
+    - 417
+    - 675
+  label: 安寧品法句經第二十三十有四章安寧品者
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0567c.28-h
+    span:
+    - body
+    - 675
+    - 909
+  label: 好喜品法句經第二十四十有二章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0568a.7-h
+    span:
+    - body
+    - 909
+    - 1380
+  label: 忿怒品法句經第二十五二十有六章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0568b.41-h
+    span:
+    - body
+    - 1380
+    - 1734
+  label: 塵垢品法句經第二十六十有九章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0568c.48-h
+    span:
+    - body
+    - 1734
+    - 2044
+  label: 奉持品法句經第二十七十有七章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0569a.47-h
+    span:
+    - body
+    - 2044
+    - 2583
+  label: 道行品法句經第二十八二十有八章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0569c.20-h
+    span:
+    - body
+    - 2583
+    - 2857
+  label: 廣衍品法句經第二十九十有四章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0570a.12-h
+    span:
+    - body
+    - 2857
+    - 3198
+  label: 地獄品法句經第三十十有六章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0570b.26-h
+    span:
+    - body
+    - 3198
+    - 3556
+  label: 象喻品法句經第三十一十有八章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0570c.37-h
+    span:
+    - body
+    - 3556
+    - 4243
+  label: 愛欲品法句經第三十二三十有二章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0571b.55-h
+    span:
+    - body
+    - 4243
+    - 4605
+  label: 利養品法句經第三十三有二十章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0571c.87-h
+    span:
+    - body
+    - 4605
+    - 5164
+  label: 沙門品法句經第三十四三十有二章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0572b.54-h
+    span:
+    - body
+    - 5164
+    - 6572
+  label: 梵志品法句經第三十五有四十章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0574a.13-h
+    span:
+    - body
+    - 6572
+    - 6962
+  label: 生死品法句經第三十七十有八章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0574b.33-h
+    span:
+    - body
+    - 6962
+    - 7392
+  label: 道利品法句經第三十八十有九章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0067_T_002-0575a.1-h
+    span:
+    - body
+    - 7392
+    - 7807
+  label: 吉祥品法句經第三十九十有九章
+  type: section
+  level: 1
+hash: sha256:6f8d5eaea8ec430d60c556536e37166c3bcb937cdd5702538b2cb9c447529034
