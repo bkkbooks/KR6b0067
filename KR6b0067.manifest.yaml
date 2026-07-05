@@ -22,11 +22,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6b0067_001.yaml, hash: 'sha256:55c7c70a4b79efb58f0f367488b8a41de729f84cd00d918b9949a9ca1f1686cb'}
-  - {seq: 2, filename: KR6b0067_002.yaml, hash: 'sha256:b1f5966f0535ffdc66318f64f874cc48aff662dea6bdb58f7630a5b4469da7b2'}
+  - {seq: 1, filename: KR6b0067_001.yaml, hash: 'sha256:4832827c344019274fd0cbf382ae374516c221030b431393963e47b5365b08ab'}
+  - {seq: 2, filename: KR6b0067_002.yaml, hash: 'sha256:7af2fc166bd92874e8c05697f0bd85b3b0e40f4ea1485757fcd0ad8aa17ffdf6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6b0067_001.markers.yaml, hash: 'sha256:388008177a3bf43c81db3cb315b3346cbfc757a08f6cf3755cf8aa259b7b875b'}
-  - {seq: 2, role: markers, filename: assets/KR6b0067_002.markers.yaml, hash: 'sha256:07692e2a4cc5959d56ff6d517a123990cd736f1999cde59f44e16e8f895eb53b'}
+  - {seq: 1, role: markers, filename: assets/KR6b0067_001.markers.yaml, hash: 'sha256:d366d4920232e4354d2d9709eb8073737949a8581c630fc3f78066bb076de2d6'}
+  - {seq: 2, role: markers, filename: assets/KR6b0067_002.markers.yaml, hash: 'sha256:237c7a8ef5b45e26c7f7d61e38a8601de02afc38514155bd59fd627deb2c4811'}
 table_of_contents:
 - ref:
     seq: 1
@@ -428,7 +428,4 @@ table_of_contents:
   label: 吉祥品法句經第三十九十有九章
   type: section
   level: 1
-hash: sha256:4562bd94103178e07ec6be03b36045b022771c69c5a726fb00b8a19854a97cd3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bdcb34346c4020d1d5d7132c0e33e0e13dbe8955a0fcd99ee83ae94b59516e88
