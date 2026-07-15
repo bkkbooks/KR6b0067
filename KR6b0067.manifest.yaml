@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6b0067/v1
 canonical_location: https://kanripo.org/bkk/KR6b0067/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 法句經
   identifiers:
@@ -22,11 +22,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6b0067_001.yaml, hash: 'sha256:4832827c344019274fd0cbf382ae374516c221030b431393963e47b5365b08ab'}
-  - {seq: 2, filename: KR6b0067_002.yaml, hash: 'sha256:7af2fc166bd92874e8c05697f0bd85b3b0e40f4ea1485757fcd0ad8aa17ffdf6'}
+  - {seq: 1, filename: KR6b0067_001.yaml, hash: 'sha256:9f6235c2f7ea10b6a440d653e925d7525436822de02d8c7369530a6f737b7fa8'}
+  - {seq: 2, filename: KR6b0067_002.yaml, hash: 'sha256:f7c9f48b91a0997ee2cae425fb6c8687ca2df49ac6dd7d942229ab4a8d2ce077'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6b0067_001.markers.yaml, hash: 'sha256:d366d4920232e4354d2d9709eb8073737949a8581c630fc3f78066bb076de2d6'}
-  - {seq: 2, role: markers, filename: assets/KR6b0067_002.markers.yaml, hash: 'sha256:237c7a8ef5b45e26c7f7d61e38a8601de02afc38514155bd59fd627deb2c4811'}
+  - {seq: 1, role: markers, filename: assets/KR6b0067_001.markers.yaml, hash: 'sha256:de61d25977e92d23bc6444bd5488d38874c3dff6dcb9044058b421f01d3fdc75'}
+  - {seq: 2, role: markers, filename: assets/KR6b0067_002.markers.yaml, hash: 'sha256:d9bb746b66073e871078c9f37b99de753b044da4dc211b5b4ff59de962e3b236'}
 table_of_contents:
 - ref:
     seq: 1
@@ -428,4 +428,7 @@ table_of_contents:
   label: 吉祥品法句經第三十九十有九章
   type: section
   level: 1
-hash: sha256:bdcb34346c4020d1d5d7132c0e33e0e13dbe8955a0fcd99ee83ae94b59516e88
+hash: sha256:abece9f8663a78121916e12c959968ace08a19fd2de96542f21df25b5bc23226
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
